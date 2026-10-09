@@ -138,9 +138,6 @@ release/Aura-Setup-1.0.0.exe
 
 <div align="center">
 
-| Library | Now Playing |
-| --- | --- |
-| ![Library](docs/library.png) | ![Now Playing](docs/now-playing.png) |
 
 </div>
 
