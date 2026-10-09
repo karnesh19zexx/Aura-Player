@@ -126,8 +126,15 @@ release/Aura-Setup-1.0.0.exe
 | `Esc` | Close queue / collapse Now Playing |
 
 ## Screenshots
+<img width="1137" height="531" alt="Screenshot 2026-10-09 142411" src="https://github.com/user-attachments/assets/688ac5a6-cdac-413b-bcd6-f5c68c8c6f0f" />
+<img width="1177" height="567" alt="Screenshot 2026-10-09 142355" src="https://github.com/user-attachments/assets/11f46654-7e9c-4616-9944-6fb5df2f86ed" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-09 142236" src="https://github.com/user-attachments/assets/1eb7b9bd-1bfc-4bd1-98fc-ace0b67e09b1" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-09 142205" src="https://github.com/user-attachments/assets/a131a0d1-cb68-400b-82fa-baf9da130c01" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-09 142139" src="https://github.com/user-attachments/assets/d22448c4-92b7-4cac-ac3d-ca90190c6b48" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-09 142036" src="https://github.com/user-attachments/assets/f5ce0040-e5c0-4212-b86a-1b1b1d05b623" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-09 141950" src="https://github.com/user-attachments/assets/0e3293b9-afce-433a-bcc4-ae216f952cc7" />
 
-> Add your own screenshots to a `docs/` folder and update the paths below.
+
 
 <div align="center">
 
